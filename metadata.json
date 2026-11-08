@@ -1,0 +1,6 @@
+{
+  "name": "Dropsy",
+  "description": "Shop smart, live better. Discover trending gadgets, fashion, accessories, and lifestyle products with Cash on Delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
